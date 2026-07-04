@@ -1,5 +1,5 @@
 #  Comprehensive Human Resource Analytics Dashboard for Organizational Insights
-![HR Analytics Interactive Dashboard](./HR-Analytics-Interactive-Dashboard.png)
+![HR Analytics Interactive Dashboard](./HR%20Analytics%20Interactive%20Dashboard.png)
 
 An interactive Human Resource (HR) Analytics Dashboard developed in **Microsoft Excel** to transform employee data into meaningful business insights. This project demonstrates how Excel can be used as a powerful Business Intelligence (BI) tool to monitor workforce composition, employee attrition, demographic trends, and organizational performance through dynamic visualizations and interactive reporting.
 
