@@ -1,10 +1,11 @@
-# 📊 Comprehensive Human Resource Analytics Dashboard for Organizational Insights
+#  Comprehensive Human Resource Analytics Dashboard for Organizational Insights
+![HR Analytics Interactive Dashboard](./HR-Analytics-Interactive-Dashboard%20Display.png)
 
 An interactive Human Resource (HR) Analytics Dashboard developed in **Microsoft Excel** to transform employee data into meaningful business insights. This project demonstrates how Excel can be used as a powerful Business Intelligence (BI) tool to monitor workforce composition, employee attrition, demographic trends, and organizational performance through dynamic visualizations and interactive reporting.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Employee retention and workforce planning are among the most critical challenges organizations face today. Understanding why employees leave, how the workforce is distributed, and identifying trends that influence organizational performance are essential for making informed Human Resource decisions.
 
@@ -12,7 +13,7 @@ This dashboard was developed to provide HR managers and business leaders with an
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Company ABC operates in a highly competitive industry that relies on skilled professionals. Over time, management observed increasing employee turnover and sought to understand the underlying factors contributing to employee exits.
 
@@ -22,7 +23,7 @@ This project addresses that need by transforming raw HR data into an interactive
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The dashboard was designed to:
 
@@ -38,7 +39,7 @@ The dashboard was designed to:
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains employee-level information, including:
 
@@ -60,7 +61,7 @@ The dataset was cleaned and structured before creating Pivot Tables and dashboar
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### KPI Metrics
 
@@ -94,7 +95,7 @@ Users can dynamically filter dashboard insights using:
 
 ---
 
-## ❓ Business Questions Answered
+## Business Questions Answered
 
 This dashboard enables stakeholders to answer important business questions such as:
 
@@ -109,36 +110,7 @@ This dashboard enables stakeholders to answer important business questions such 
 
 ---
 
-## 🛠️ Tools & Techniques Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- KPI Cards
-- Map Charts
-- Conditional Formatting
-- Excel Formulas
-- Dashboard Design
-- Data Cleaning
-- Data Transformation
-- Business Analytics
-- HR Analytics
-- Data Visualization
-
----
-
-## 📊 Dashboard Preview
-
-> *(Insert dashboard screenshot here)*
-
-```markdown
-![HR Dashboard](Images/dashboard.png)
-```
-
----
-
-## 💡 Key Insights
+## Key Insights
 
 The dashboard enables users to quickly identify:
 
@@ -155,28 +127,7 @@ These insights support evidence-based decision-making in workforce planning and 
 
 ---
 
-## 📁 Repository Structure
-
-```
-HR-Analytics-Dashboard-Excel/
-│
-├── Dashboard/
-│   └── HR Analytics Dashboard.xlsx
-│
-├── Dataset/
-│   └── HR Employee Dataset.xlsx
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
-
-## 🚀 Potential Improvements
+## Potential Improvements
 
 Future enhancements may include:
 
@@ -192,7 +143,7 @@ Future enhancements may include:
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates proficiency in:
 
@@ -208,14 +159,4 @@ This project demonstrates proficiency in:
 
 ---
 
-## 👤 Author
-
-**Abubakar Toyeeb Olamilekan**
-
-M.Sc. Mathematical Sciences | Data Analyst | Statistics Graduate
-
-**Skills:** Excel • Power BI • Python • SQL • R • Data Analytics • Business Intelligence • Dashboard Development
-
----
-
-## ⭐ If you found this project helpful, consider giving it a star!
+## If you found this project helpful, consider giving it a star!
